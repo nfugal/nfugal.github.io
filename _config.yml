@@ -64,9 +64,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nate Fugal"
-  avatar : "/assets/images/bio-photo.webp"
-  bio    : "Partner. Father. Tech-Generalist. Life-Long Learner. Those are a few titles that I feel fit me pretty comfortably."
+  name: "Nate Fugal"
+  avatar: "/assets/images/bio-photo.webp"
+  bio: "Partner. Father. Tech-Generalist. Life-Long Learner. Those are a few titles that I feel fit me pretty comfortably."
   location: "Utah USA"
   links:
     - label: "Email"
@@ -129,7 +129,7 @@ date_format: "%Y-%m-%d"
 
 
 comments:
-  provider  : "staticman_v2"
+  provider: "staticman_v2"
   staticman:
-    branch    : "main"
-    endpoint  : https://staticman.natefugal.tech/v3/entry/github/
+    branch: "main"
+    endpoint: https://staticman.natefugal.tech/v3/entry/github/
