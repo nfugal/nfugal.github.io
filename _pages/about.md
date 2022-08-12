@@ -3,7 +3,7 @@ permalink: /about/
 title: "Who Is Nate Fugal?"
 ---
 
-_Diving head-first into tech stuff since 1993_ (ask me about my first computer upgrade sometime) <br />
+_Diving head-first into tech stuff since 1993_ (ask me about my first computer upgrade sometime)
 [Why '93 you ask? Well I was born in the late 80's but didn't start my tech adventures until '93 or so, plus '93 sounds good.]
 
 I consider myself a breadth-geek—lots of interests, none particularly deep.
