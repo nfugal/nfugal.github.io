@@ -1,4 +1,4 @@
-# stunning-octo-pancake
+# The repo formerly known as stunning-octo-pancake
 
 ### The code behind NateFugal.tech/nfugal.github.io
 
