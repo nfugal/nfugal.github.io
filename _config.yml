@@ -127,9 +127,9 @@ tag_archive:
 
 date_format: "%Y-%m-%d"
 
-
+repository: "nfugal/nfugal.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 comments:
   provider: "staticman_v2"
   staticman:
-    branch: "main"
+    branch: "master"
     endpoint: https://staticman.natefugal.tech/v3/entry/github/
