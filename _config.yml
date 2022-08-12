@@ -65,8 +65,8 @@ plugins:
 
 author:
   name   : "Nate Fugal"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Partner. Father. Tech-Enthusiast. Life-Long Learner. Those are a few titles that I feel fit me pretty comfortably."
+  avatar : "/assets/images/bio-photo.webp"
+  bio    : "Partner. Father. Tech-Generalist. Life-Long Learner. Those are a few titles that I feel fit me pretty comfortably."
   location: "Utah USA"
   links:
     - label: "Email"
@@ -74,13 +74,16 @@ author:
       url: "mailto:info@natefugal.tech"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://natefugal.tech"
+      url: "/about/" # url: "https://natefugal.tech/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/nfugal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nfugal"
+    - label: "Linked-In"
+      icon: "fab fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/nfugal/"
 
 footer:
   links:
@@ -90,6 +93,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nfugal"
+    - label: "Linked-In"
+      icon: "fab fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/nfugal/"
 
 defaults:
   # _posts
@@ -103,6 +109,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -117,3 +124,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+date_format: "%Y-%m-%d"
+
+
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "main"
+    endpoint  : https://staticman.natefugal.tech/v3/entry/github/
