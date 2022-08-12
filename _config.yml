@@ -131,5 +131,5 @@ repository: "nfugal/nfugal.github.io" # GitHub username/repo-name e.g. "mmistake
 comments:
   provider: "staticman_v2"
   staticman:
-    branch: "master"
+    branch: "main"
     endpoint: https://staticman.natefugal.tech/v3/entry/github/
