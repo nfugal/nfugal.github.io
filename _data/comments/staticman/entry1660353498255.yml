@@ -1,8 +1,8 @@
 _id: d0166cd0-1aa5-11ed-bde9-83c0abbadafb
 message: >-
-  For some reason, every time I tried to point to repo backing the CloudFlare
-  Pages version, it would break the site. Seems like I can choose between
-  comments and CloudFlare Pages but can't have both.
+  For some reason, every time I tried to point to the repo backing the 
+  CloudFlare Pages version, it would break the site. Seems like I can 
+  choose between comments and CloudFlare Pages but can't have _both._
 name: Nate Fugal
 email: 5e0b55a06568e73e2d3fe03235057bcc
 url: ''
