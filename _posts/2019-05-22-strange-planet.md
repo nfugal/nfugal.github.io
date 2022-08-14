@@ -33,6 +33,8 @@ I don't know of anywhere to read them all in one place. If you do, let me know. 
 
 <br />
 
+___
+
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
 -Nate
