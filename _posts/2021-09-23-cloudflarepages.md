@@ -29,7 +29,10 @@ Thanks for all you've done for me Vercel. You've been great. But as an incurable
 
 That's all for now.
 
+
 <br />
+
+___
 
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 

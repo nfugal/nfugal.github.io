@@ -31,10 +31,9 @@ Turns out that idea resonates with me pretty deeply. I believe in seeking truth/
 My views on religion/divinity/all-things-spiritual have expanded much lately. I feel like part of that change has been a sacrifice of my old, simpler, more naïve view of such things. Sometimes I mourn that sacrifice―but I wouldn't change it even if I could.
 
 
-
-
-
 <br />
+
+___
 
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 

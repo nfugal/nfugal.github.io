@@ -27,7 +27,10 @@ The short version is, it started to fall out lots. I didn't go bald, but the fal
 
 I don't feel like it would be productive, helpful for me, or meaningful to nameless internet strangers to rehash all the things that happened in 2020, but I wanted to at least mark its passing. Me & mine survived, relatively untouched by all the craziness. I'm still here. You're still here (if you're not still here, but you're somehow reading this, drop me a line. I have many questions for you). So here's to new things! Hopefully better ones!
 
+
 <br />
+
+___
 
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
