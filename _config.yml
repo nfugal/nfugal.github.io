@@ -42,6 +42,14 @@ timezone: America/Denver # https://en.wikipedia.org/wiki/List_of_tz_database_tim
 include:
   - _pages
 
+social:
+  type:  Person # Person or Organization (defaults to Person)
+  name:  Nate Fugal # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/nfugal"
+    - "https://www.linkedin.com/in/nfugal"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -80,7 +88,9 @@ author:
       url: "https://twitter.com/nfugal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nfugal"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/nfugal"
     - label: "Linked-In"
       icon: "fab fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/nfugal/"
