@@ -3,6 +3,10 @@ title: "Backing Up Optical Media for Increased Utility & Ease of Enjoyment"
 excerpt: "Discs are sooo last decade."
 date: 2022-08-15
 last_modified_at: 2022-08-15T16:20:02-06:00
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 header:
   overlay_image: /assets/images/discs-1344774.webp
   image_description: "Four discs spread out"
