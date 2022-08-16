@@ -5,13 +5,10 @@ date: 2019-01-02
 header:
   overlay_image: /assets/images/matrix.webp
 categories:
-  - "Setup"
-  - "Tutorial"
-tags:
   - "Example"
+tags:
   - "Testing"
   - "Markdown"
-  - "Blog"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.
