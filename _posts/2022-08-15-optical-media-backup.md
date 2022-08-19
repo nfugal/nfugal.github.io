@@ -32,12 +32,12 @@ Also, I am not affiliated with any of the projects or companies mentioned here.
 
 ### Why You Might Want To
 
-Optical media has some solid pluses. Ease of use in today's world is _not_ one of them. Anyone who had ever tried to binge watch a season of something on DVD or Blu-ray can tell you, getting up to swap to the next disc is just not the same as the auto-play next popularized by Netflix. Also when was the last time you had a laptop with an optical drive? They sure seem to be going the way of the Dodo bird. 
+Optical media has some solid pluses. Ease of use in today's world is _not_ one of them. Anyone who has ever tried to binge watch a season of something on DVD or Blu-ray can tell you, getting up to swap to the next disc is just _not_ the same as the _auto-play next_ experience popularized by Netflix. Also when was the last time you had a laptop with an optical drive? They sure seem to be going the way of the Dodo bird. 
 
 Digitizing (I _know_ that optical discs contain already digital media, but this is how my brain sometimes categorizes it anyway 🤪) your media has some pluses (some minuses too). Here are some that jump out to me:
 
   + No more dealing with discs (after you finish the ripping & compressing of course)
-  + Metadata-rich experience while choosing and watching media
+  + Metadata-rich experience while browsing and watching media
   + Faster to get to the content you _actually_ want to watch (no more unskippable previews or _sloooow_ loading menus, I'm looking at you Blu-rays 👀)
   + Flexibility
 
@@ -45,14 +45,13 @@ For me, one of the big reasons to go discless was having a toddler, for whom DVD
 
 ### Why You Might _Not_ Want To
 
-There definitely some reasons you might _not_ want to go discless. Here are some:
+There are definitely some reasons you might _not_ want to go discless. Here are some:
 
   + Time. Sooooo much time spent ripping and compressing things!
-  + Streaming services availability.
+  + Streaming services availability
   + Legality in your country
-  + Upfront costs
-  + Maintenance
-  + Configuration
+  + Hardware availability
+  + Maintenance effort
   + Did I mention time? It is a long project if you have a lot of discs.
 
 ### How Does Streaming Fit In?
@@ -87,7 +86,7 @@ This task is not for the faint of heart, but the rewards for those who walk this
 1. Some number of discs you care to backup:
   + The number will affect many aspects of this process but I'll generally write assuming a collection of interest somewhere in the 50-100 discs range.
 2. A computer with a disc drive capable of reading the discs which you want to back up:
-  + This is becoming less and less common so purchasing one just for the project is a very real possibility. Fortunately they aren't particularly expensive.
+  + This is becoming less and less common so purchasing one just for the project is a very real possibility. Fortunately they are relatively inexpensive.
   + The computer for ripping doesn't need to be particularly powerful. For compressing, you'll want the beefiest CPU you can manage to utilize.
 3. Somewhere to store & serve the resulting files:
   + A [RaspberryPi](https://www.raspberrypi.org/) with some external storage attached works great for many folks.
@@ -96,8 +95,8 @@ This task is not for the faint of heart, but the rewards for those who walk this
   + Considerations to inform your computer and storage choices include but are not limited to: size of your collection, if you'll be accessing it on the go or just at home, number & type of devices you plan on using to watch the media―total & concurrently, number of users you expect to support, your network capacity (internet too if you want to watch on the go).
 4. The appropriate software[^1] to make the job manageable and make your discless experience better than your discful one:
   + Ripping tool(s): My go-to is [MakeMKV](https://makemkv.com/)
-  + Compressing/encoding tool(s): For something with a GUI [HandBrake](https://handbrake.fr/) is hard to beat―not that it doesn't have a CLI, just it is a nice GUI tool. [FFmpeg](https://ffmpeg.org/) is a fantastic, CLI tool, but decidedly less user friendly.
-  + Media management tool(s): There are many to choose from. If you prefer the FOSS route I'd highly recommend both [Kodi](https://kodi.tv/) & [Jellyfin](https://jellyfin.org/). If you don't mind the Freemium model, [Plex](https://www.plex.tv/) & [Emby](https://emby.media/) are both compelling options. Here are the ones I have the most experience with, in descending order (most experience first):
+  + Compressing/encoding tool(s): For something with a GUI [HandBrake](https://handbrake.fr/) is hard to beat―not that it doesn't have a CLI, just it is a nice GUI tool. [FFmpeg](https://ffmpeg.org/) is a fantastic CLI tool, but decidedly does _not_ win the _least-overwhelming-options-and-interface-enough-so-that-you-don't-ever-find-yourself-searching-for-how-to-execute-specific-bits-on-StackOverflow_ award™―at least not in my experience.
+  + Media management tool(s): There are many to choose from. If you prefer the FOSS route I'd highly recommend both [Kodi](https://kodi.tv/) & [Jellyfin](https://jellyfin.org/). If you don't mind the Freemium model, [Plex](https://www.plex.tv/) & [Emby](https://emby.media/) are both compelling options. Here are the ones I have the most experience with, in descending order (i.e., most experience first):
     1. Kodi
     2. Plex
     3. Jellyfin
@@ -105,13 +104,13 @@ This task is not for the faint of heart, but the rewards for those who walk this
 
 ### Use the Things
 
-Since I don't know specifics about which things you have decided to use the instructions here are going to be focused on the things I've used most. I'll provide at least general guidance on other things where I can though.
+Since I don't know specifics about which things you have decided to use, the instructions here are going to be focused on the things I've used most. I'll provide at least general guidance on other things where I can though.
 
-I'm going to assume that anyone following this guide has a certain minimum level of comfort with technology in general. The level I'm assuming presupposes that travelers here feel comfortable installing software on the computers they use regularly. If that is _not_ the case for you, it seems to me that more specialized help would be in order―more specific instructions written to match the things you've chosen. If you are interested in something like that, leave a comment saying so and I'll see what I can do. Make sure to include _which_ things you are using/want to use.
+I'm going to assume that anyone following this guide has a certain minimum level of comfort with technology in general. The level I'm assuming presupposes that travelers here feel comfortable installing software on the computers _they_ use regularly. If that is _not_ the case for you, it seems to me that more specialized help would be in order―more specific instructions written to match the things you've chosen. If you are interested in something like that, leave a comment saying so and I'll see what I can do. Make sure to include _which_ things you are using/want to use.
 
 #### Install the Things
 
-You've gathered the things you've chosen to use (you have gathered them, right? If not you might want to go back and do so before proceeding). Go ahead and install the software tools you've chosen on your ripping box, your encoding box, your serving box, & your watching box (these could _all_ be the same box, that's how theBoyd likes to roll). For this guide we'll use MakeMKV for ripping and HandBrake for encoding. I'll likely talk about Kodi, Plex, & Jellyfin for media management & consumption.
+So you've gathered the things you've chosen to use (you have gathered them, right? If not you might want to go back and do so before proceeding). Go ahead and install the software tools you've chosen on your ripping box, your encoding box, your serving box, & your watching box (these could _all_ be the same box, that's how theBoyd likes to roll. For me ripping & encoding often happen on the same box, with a separate serving box and several watching/client boxes). For this guide we'll use MakeMKV for ripping and HandBrake for encoding. I'll likely talk about Kodi, Plex, & Jellyfin for media management & consumption.
 
 #### Rip Some Discs
 
@@ -119,25 +118,25 @@ With your ripping and encoding box(es) ready to go, grab a disc, put it in the d
 
 ##### Disc One 📀
 
-MakeMKV will do some automatic startup things that take a little while (couple of minutes or less)―basic "is this a disc I can read?" type things. After that you'll see a screen something like this (subject to differences in MakeMKV versions, OS, screen size, optical drive hardware, etc):
+MakeMKV will do some automatic startup things that take a little while (couple of minutes or less)―basic "is this a disc I can read?" type things. After that you'll see a screen something like this (subject to differences in MakeMKV versions, OS, screen size, optical drive hardware, etc.):
 
 {% include figure image_path="/assets/images/makemkv-1.webp" alt="MakeMKV Initial Screen" caption="MakeMKV Initial Screen" %}
 
-If you click on the icon indicated with the arrow on the screenshot above, MakeMKV will analyze the tracks on the disc that you can convert to .mkv files. After that completes you'll see something like the track selection screen depicted here:
+If you click on the icon indicated with the arrow on the screenshot above, MakeMKV will analyze the titles on the disc that you can convert to .mkv files. After that completes you'll see something like the title selection screen depicted here:
 
-{% include figure image_path="/assets/images/makemkv-2.webp" alt="MakeMKV track selection" caption="MakeMKV Track Selection" %}
+{% include figure image_path="/assets/images/makemkv-2.webp" alt="MakeMKV title selection" caption="MakeMKV Title Selection" %}
 
-Depending on the disc you may see one or many tracks. Usually the largest track is the feature of the disc. Fortunately the ripping is fast so you can leave them all selected and check the files post-rip to see what they are. It might take some trial and error to get used to the layout of discs and which tracks you are interested in but it is a _very_ surmountable obstacle.
+Depending on the disc you may see one or many titles. Usually the largest title is the feature of the disc. Fortunately the ripping is fast so you can leave them all selected and check the files post-rip to see what they are. It might take some trial and error to get used to the layout of discs and which titles you are interested in―fortunately it is a _very_ surmountable obstacle.
 
-If you click on the arrow icon next to a track it will expand so you can select which audio tracks, subtitles, and extra files you want to include. Picking which audio tracks you care about here can save you some ripping time but ripping is fast enough that I wouldn't worry about it too much. I _do_ recommend picking which subtitle tracks you want as this is the most reliable way to include them. Anything with a filled checkbox will be included in the output .mkv files.
+If you click on the arrow icon next to a title it will expand so you can select which audio tracks, subtitles, and extra files you want to include. Picking which audio tracks you care about here can save you some ripping time, but ripping is fast enough that I wouldn't worry about it too much. I _do_ recommend picking which subtitle tracks you want as this is the most reliable way to include them. Anything with a filled checkbox will be included in the output .mkv files.
 
-After you've got the proper tracks selected, check and adjust the output directory so you'll know where to find your shiny new .mkv file(s) once the ripping is complete. 
+After you've got the proper titles/tracks selected, check and adjust the output directory so you'll know where to find your shiny new .mkv file(s) once the ripping is complete. 
 
-Now you're ready to hit the MakeMKV button (icon with a diagonal green arrow) to start the ripping process! Depending on the output directory you picked you might be presented with a dialog box asking if you'd like to create the directory. The time to complete the ripping process will vary based on your hardware, size of selected tracks, etc. but in my experience DVDs take about 20 minutes and Blu-ray discs about 40 minutes. 
+Now you're ready to hit the `MakeMKV` button (icon with a diagonal green arrow in the upper right of the window) to start the ripping process! Depending on the output directory you picked you might be presented with a dialog box asking if you'd like to create the directory. Usually for me the answer to that question is "Yes" because I'd rather go futz with folders & files in my file browser than in the MakeMKV interface. The time to complete the ripping process will vary based on your hardware, size of selected tracks, etc. but in my experience DVDs take about 20 minutes and Blu-ray discs about 40 minutes. 
 
 {% include figure image_path="/assets/images/makemkv-3.webp" alt="MakeMKV Rip Complete" caption="MakeMKV Rip Complete" %}
 
-Wait for the ripping to finish (you can tell it is done because MakeMKV tells you it is with a handy dialog box, pictured above ⏫) then go take a look at your output directory to see your shiny new .mkv files. If you couldn't tell which track was what earlier this is when I recommend opening them to get that figured out (checkout [VLC](https://www.videolan.org/vlc/) if you need solid media player software). 
+Wait for the ripping to finish (you can tell it is done because MakeMKV tells you it is with a handy dialog box, pictured above ⏫) then go take a look at your output directory to see your shiny new .mkv files. If you couldn't tell which title was what earlier this is when I recommend opening them to get that figured out (checkout [VLC](https://www.videolan.org/vlc/) if you need solid media player software): 
 
 ```shell
 ❯ lsd -F -R --group-dirs first
@@ -154,40 +153,40 @@ Lather, rinse, repeat for _each_ disc you want to rip.
 This is a good time to make sure the files are named something helpful. By MakeMKV's default they will be in the shape of:
 
 ```yaml
-DISCTITLE/DISCTITLE_tt##.mkv
+DISCTITLE/DISCTITLE_t##.mkv
 ``` 
-e.g. 
+
+e.g. from the disc used in the screenshots above you get this output:
 
 ```yaml
 LEGEND'2015'-NEW YEAR FOX FESTIVAL-/LEGEND'2015'-NEW YEAR FOX FESTIVAL-_t00.mkv
 ``` 
-from the disc used in the screenshots above. 
 
 My personal preference for naming, which tends to _mostly_ play well with media management software, is this shape:
 
 ```yaml
-<Top Level Movies Directory>/<Title, The> (<year)>/<TitleClean>_<quality>.<ext>
+<Top Level Movies Directory>/<Title, The> (<year>)/<TitleClean>_<quality>.<ext>
 ```
 
-For example, for the 2008 film [the Brothers Bloom](https://www.themoviedb.org/movie/21755-the-brothers-bloom), the naming would look like this:
+The 2008 film [the Brothers Bloom](https://www.themoviedb.org/movie/21755-the-brothers-bloom), for example, would look like this:
 
 ```yaml
 Movies/Brothers Bloom, The (2008)/Brothers Bloom_1080p.mkv
 ```
 
-For the 2003 film [Daredevil](https://www.themoviedb.org/movie/9480-daredevil), it would like this: 
+For the 2003 film [Daredevil](https://www.themoviedb.org/movie/9480-daredevil), it would look like this: 
 
 ```yaml
 Movies/Daredevil (2003)/Daredevil_1080p.mkv
 ```
 
-For TV I follow the same general pattern, modified a bit for seasons & episodes. Here's the shape:
+For TV I follow the same general pattern, modified a bit to account for seasons & episodes. Here's the general shape:
 
 ```yaml
-<Top Level TV Directory>/<ShowTitle, The> (<year)>/Season <#>/S<##>E<##> <EpisodeTitle>_<quality>.<ext>
+<Top Level TV Directory>/<ShowTitle, The> (<year>)/Season <#>/S<##>E<##> <EpisodeTitle>_<quality>.<ext>
 ```
 
-So the delightful cult-classic from 2002, [Firefly](https://www.themoviedb.org/tv/1437-firefly), would look like this:
+So the delightful, cult-classic from 2002, [Firefly](https://www.themoviedb.org/tv/1437-firefly), would look like this:
 
 ```yaml
 TV/Firefly (2002)/Season 1/S01E01 Serenity_2160p.mkv
@@ -201,7 +200,7 @@ No, that's not a typo. There is the _episode_ titled Serenity _and_ the 2005 _[f
 
 The organization I'm talking about here is what I suggest for production/library files. I like to utilize a staging directory, with similar structure, for the files that are still in progress, not yet encoded, not yet properly named, etc.
 
-You've got your raw .mkv files named helpfully, so you'll be able to identify and sort them into your library structure. Now you're ready for encoding!
+With your raw .mkv files named helpfully, so you'll be able to identify and sort them into your library structure, now you're ready for encoding!
 
 #### Encode Some Files 🎞
 
@@ -219,18 +218,18 @@ To encode a video file follow these steps:
 
 1. Click on the `Open Source` button in the upper left of the window. Source here means "file you intend to encode"
 2. Locate the file of interest in the file picker, select it, and click on the `Open` button. Depending on the size of the file picked you may have to wait a bit for HandBrake to acquaint itself with the file.
-3. Pick a preset[^3] that fits your use case, or select all the custom settings. You might not be surprised to find that I prefer to use MKV as the container for my video files. My library has a mix of H.264 & H.265 encoded files because H.265 was not widely supported last time I re-ripped & encoded my library and I haven't taken the time to go back and redo it yet. For audio I generally use the passthru option and let the client device figure out how to deal with it, rather than force something in the file itself. Similar for subtitles, no burn-in/hard-encoding for me, I use subtitle tracks and client devices smart enough to let me choose a subtitle track.
+3. Pick a preset[^3] that fits your use case, or select all custom settings. You might _not_ be surprised to find that I prefer to use MKV as the container for my video files. My library has a mix of H.264 & H.265 encoded files because H.265 was not widely supported last time I re-ripped & encoded my library and I haven't taken the time to go back and redo the H.264 content yet. For audio I generally use the passthru option and let the client device figure out how to deal with it, rather than force something in the file itself. Similar for subtitles―no burn-in/hard-encoding for me, I use subtitle tracks and client devices smart enough to let me choose a subtitle track.
 4. Once you're pleased with your options (check the _all_ the tabs) you can either queue the encode or start it immediately. My M.O. is to queue enough to keep the machine busy, say through the night[^4], and then kick it off.
 
 #### Serve Your Media
 
-I lump the prep, ripping, and encoding into the _interesting-at-first-but-quickly-tedious_ category. This section is where you get to start enjoying the fruits of your labors.
+I lump the prep, ripping, and encoding into the _interesting-at-first-but-quickly-tedious_ category. By contrast, this section is where you get to start enjoying the fruits of your labors.
 
 ##### Kodi
 
 ![Kodi Logo](/assets/images/kodi-logo.webp){: .align-center}
 
-Kodi has been around since the days when the original xBox was Microsoft's current generation console. In that time is has evolved much but what I think of as Kodi's core strength has not changed―play any of your media flawlessly and look good while doing it. Kodi is _very_ customizable but the many ways you can customize it are out of the scope of this guide[^5].
+Kodi has been around since the days when the original xBox was Microsoft's current generation console. In that time is has evolved much but what I think of as Kodi's core strength has _not_ changed―play any of your media flawlessly and look good while doing it. Kodi is _very_ customizable but the many ways you can customize it are out of the scope of this guide[^5].
 
 ###### Strengths & Weaknesses of Kodi
 
@@ -302,7 +301,7 @@ Anyone hoping for guidance on getting up and going with Jellyfin should checkout
 
 ## Conclusion
 
-If you're still reading this, color me impressed with your stamina. This article has been both longer _and_ shorter than I expected, but I think it falls squarely into the long territory. If you have specific questions or liked my instruction enough to hope that I'll do more, let me know in a comment and I'll see what I can do.
+If you're still reading this, color me impressed with your stamina. This article has been both longer _and_ shorter than I expected, but I think it falls squarely into the long territory. If you have specific questions or liked my instructions enough to hope that I'll write more, let me know in a comment and I'll see what I can do.
 
 Hopefully now you are well on your way to leading a discless life. If you have already achieved media-Nirvana I congratulate you. Take care, fellow traveler.
 
