@@ -2,6 +2,7 @@
 title: "Home Setup"
 excerpt: "If a man's home is his castle, what does that make his home network?"
 date: 2019-05-25
+last_modified_at: 2022-08-21T07:12:18
 header:
   overlay_image: /assets/images/fractal.webp
 categories:
