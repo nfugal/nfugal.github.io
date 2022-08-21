@@ -2,7 +2,7 @@
 title: "CloudflarePages"
 excerpt: "In this week's episode, I go all-in with Cloudflare"
 date: 2021-09-23
-last_modified_at:
+last_modified_at: 2022-08-21T07:20:49
 header:
   overlay_image: /assets/images/system.webp
 categories:
