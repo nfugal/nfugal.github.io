@@ -2,6 +2,7 @@
 title: "Self Improvement & Growth Mindset"
 excerpt: "Sometimes it is hard to remember, but growth mindset is better"
 date: 2021-01-27
+last_modified_at: 2022-08-21T07:10:26
 header:
   overlay_image: /assets/images/viking.webp
 categories:
