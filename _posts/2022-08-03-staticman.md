@@ -2,7 +2,7 @@
 title: "Testing Staticman for Comments"
 excerpt: "Will it work this time?"
 date: 2022-08-03
-last_modified_at: 2022-08-21T07:17:17
+last_modified_at: 2022-08-22T13:57:50
 header:
   overlay_image: /assets/images/kelly-sikkema-Hl3LUdyKRic-unsplash.webp
   image_description: "Writer"
@@ -17,7 +17,7 @@ tags:
 
 I [promised long ago]({% post_url 2019-05-22-strange-planet %}) that comments were on the to do list. Today I'm trying to make them work.
 
-I took a look at [Staticman](https://staticman.net/) a [long time ago](https://github.com/nfugal/staticman-tutorial), but didn't ever end up connecting it to anything. I briefly tried [giscus](https://giscus.app/) as well, but figured Staticman had at least earned another stab.
+I took a look at [Staticman](https://staticman.net/) a [long time ago](https://github.com/nfugal/staticman-tutorial), but didn't ever end up connecting it to anything. I briefly tried [giscus](https://giscus.app/) as well, but figured Staticman had at _least_ earned another stab.
 
 
 <br />
