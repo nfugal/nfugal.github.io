@@ -146,4 +146,4 @@ comments:
   provider: "staticman_v2"
   staticman:
     branch: "main"
-    endpoint: https://staticman.natefugal.tech/v3/entry/github/
+    endpoint: https://bored-lion-petticoat.cyclic.app/v3/entry/github/
