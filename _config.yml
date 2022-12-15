@@ -146,4 +146,4 @@ comments:
   provider: "staticman_v2"
   staticman:
     branch: "main"
-    endpoint: http://staticman.lab.natefugal.tech/v3/entry/github/
+    endpoint: https://staticman.lab.natefugal.tech/v3/entry/github/
