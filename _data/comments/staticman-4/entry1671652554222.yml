@@ -1,0 +1,7 @@
+_id: 7a181060-8169-11ed-a30b-d776f81aaff5
+message: "Hi!\r\nI have [Staticman](https://github.com/eduardoboucas/staticman/blob/master/docs/docker.md) running on a Docker host along with a few other containers. LinuxServer.io's excellent [SWAG](https://docs.linuxserver.io/images/docker-swag) handles the reverse proxy and SSL cert. I'm using Cloudflare for my DNS. Hopefully that helps!"
+name: Nate Fugal
+email: 5e0b55a06568e73e2d3fe03235057bcc
+url: ''
+hidden: ''
+date: '2022-12-21T19:55:54.220Z'
