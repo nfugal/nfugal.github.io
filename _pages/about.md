@@ -7,7 +7,7 @@ _Diving head-first into tech stuff since 1993™_ (ask me about my first compute
 
 I consider myself a breadth-geek—lots of interests, none particularly deep.
 
-My current main-gig is trying to make the U.S. healthcare experience suck a little less (Hi CH! 👋).
+My current main-gig is trying to make the U.S. healthcare experience suck less (Hi CH! 👋).
 
 Some bits from my personal credo that I deem pertinent to these introduction-type circumstances:
 
