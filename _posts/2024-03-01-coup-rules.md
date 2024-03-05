@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-05T04:50:26
+last_modified_at: 2024-03-05T05:08:36
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -167,15 +167,19 @@ If a player wins a challenge by showing the relevant character card, they first 
 
 If an action is successfully challenged the entire action fails, and any coins paid as the cost of the action are returned to the player.
 
-<div class=".notice--info">
 
-##### Note: Double Dangers of Assassination
+{% capture notice-text %}
 It is possible to lose 2 influence in one turn if you unsuccessfully defend against an assassination.
 
 For example, if you challenge an assassin used against you and lose the challenge, you will lose 1 influence for the lost challenge and then 1 influence for the successful assassination.
 
 Or if you bluff about having the Contessa to block an assassination attempt and are challenged, you will lose 1 influence for the lost challenge and then lose 1 influence for the successful assassination.
+{% endcapture %}
 
+<div class="notice--info">
+  <h5 class="no_toc">Note: Double Dangers of Assassination</h5>
+  {{ notice-text | markdownify }}
+</div>
 
 ##### Total (Lack of) Trust
 Any negotiations are allowed, but none are ever binding. Players are not allowed to reveal any of their cards to other players.
@@ -184,7 +188,7 @@ No coins can be given or lent to other players.
 
 There is no second place.
 
-</div>
+
 
 ### Two Player Coup & Two Player Variant
 When playing Coup with two players, the starting player receives only 1 coin at the beginning of the game.
