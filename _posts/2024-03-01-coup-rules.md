@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-05T04:32:14
+last_modified_at: 2024-03-05T04:50:26
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -95,12 +95,13 @@ If a player starts their turn with 10 (or more) coins they must launch a Coup th
 - Coup: Pay 7 coins to the Treasury and launch a Coup against another player. That player immediately loses an influence. A Coup is always successful. If you start your turn with 10 (or more) coins you are required to launch a Coup.
 
 #### B. Character Actions
-(If challenged a player must show they influence the relevant character)
+*(If challenged a player must show they influence the relevant character)*
 
 ![duke](/assets/images/coup3_duke.webp){: .align-left}
 ##### Duke - Tax
 Take 3 coins from the Treasury.
 
+<br />
 <br />
 <br />
 <br />
@@ -113,7 +114,7 @@ Pay 3 coins to the Treasury and launch an assassination against another player. 
 
 ![captain](/assets/images/coup5_captain.webp){: .align-left}
 ##### Captain - Steal
-Take 2 coins from another player. If they only have one coin, take only one. (Can be blocked by the Ambassador or the Captain)
+Take 2 coins from another player. If they only have one coin, take only one. *(Can be blocked by the Ambassador or the Captain)*
 
 <br />
 
@@ -162,24 +163,28 @@ Whoever loses the challenge immediately loses an influence.
 
 If a player wins a challenge by showing the relevant character card, they first return that card to the Court deck, re-shuffle the Court deck and take a random replacement card.
 
-(That way they have not lost influence and other players do not know the new influence card they have). Then the action or counteraction is resolved.
+*(That way they have not lost influence and other players do not know the new influence card they have.)* Then the action or counteraction is resolved.
 
 If an action is successfully challenged the entire action fails, and any coins paid as the cost of the action are returned to the player.
 
-__Note: Double Dangers of Assassination__
-It is possible to lose 2 influence in one turn if you unsuccessfully defend against an assassination. {: .notice--info}
+<div class=".notice--info">
+
+##### Note: Double Dangers of Assassination
+It is possible to lose 2 influence in one turn if you unsuccessfully defend against an assassination.
 
 For example, if you challenge an assassin used against you and lose the challenge, you will lose 1 influence for the lost challenge and then 1 influence for the successful assassination.
 
 Or if you bluff about having the Contessa to block an assassination attempt and are challenged, you will lose 1 influence for the lost challenge and then lose 1 influence for the successful assassination.
 
 
-#### Total (Lack of) Trust
+##### Total (Lack of) Trust
 Any negotiations are allowed, but none are ever binding. Players are not allowed to reveal any of their cards to other players.
 
 No coins can be given or lent to other players.
 
 There is no second place.
+
+</div>
 
 ### Two Player Coup & Two Player Variant
 When playing Coup with two players, the starting player receives only 1 coin at the beginning of the game.
