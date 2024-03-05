@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-05T03:59:37
+last_modified_at: 2024-03-05T04:32:14
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -29,7 +29,7 @@ To be successful, you must destroy the influence of your rivals and drive them i
 
 In these turbulent times there is only room for one to survive.
 
-![components](/assets/images/coup1_components.webp){: .align-left}
+![components](/assets/images/coup1_components.webp){: .align-right}
 
 ## Components
 - 3 Duke Cards
@@ -103,6 +103,7 @@ Take 3 coins from the Treasury.
 
 <br />
 <br />
+<br />
 
 ![assassin](/assets/images/coup4_assassin.webp){: .align-left}
 ##### Assassin - Assassinate
@@ -165,8 +166,8 @@ If a player wins a challenge by showing the relevant character card, they first 
 
 If an action is successfully challenged the entire action fails, and any coins paid as the cost of the action are returned to the player.
 
-#### Note: Double Dangers of Assassination
-It is possible to lose 2 influence in one turn if you unsuccessfully defend against an assassination.
+__Note: Double Dangers of Assassination__
+It is possible to lose 2 influence in one turn if you unsuccessfully defend against an assassination. {: .notice--info}
 
 For example, if you challenge an assassin used against you and lose the challenge, you will lose 1 influence for the lost challenge and then 1 influence for the successful assassination.
 
@@ -255,5 +256,5 @@ A player cannot Examine another player of the same Allegiance unless all players
 ### More Than Six Player Variant
 Coup & Reformation can be played with 7 or 8 players by including 4 each of the selected character cards in the Court deck (20 cards total). Coup can be played with 9 or 10 players by including 5 each of the selected character cards in the Court deck (25 cards total).
 
-#### Note
+__Note:__
 Playing with more than 6 players can significantly increase playing time, and may lead to long waits for those that are eliminated early. It is recommended for experienced players and exceptional situations
