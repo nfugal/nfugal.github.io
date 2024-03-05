@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-05T03:56:47
+last_modified_at: 2024-03-05T03:59:37
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -102,6 +102,7 @@ If a player starts their turn with 10 (or more) coins they must launch a Coup th
 Take 3 coins from the Treasury.
 
 <br />
+<br />
 
 ![assassin](/assets/images/coup4_assassin.webp){: .align-left}
 ##### Assassin - Assassinate
@@ -132,11 +133,15 @@ Any player claiming the Duke may counteract and block a player attempting to col
 
 The player trying to gain foreign aid receives no coins that turn.
 
+<br />
+
 ![contessa](/assets/images/coup7_contessa.webp){: .align-right}
 ##### Contessa - Blocks Assassination
 The player who is being assassinated may claim the Contessa and counteract to block the assassination.
 
 The assassination fails but the fee paid by the player for the assassin remains spent.
+
+<br />
 
 ![captbassador](/assets/images/coup8_captain_ambassador.webp){: .align-right}
 ##### Ambassador/Captain - Blocks Stealing
