@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-05T03:45:27
+last_modified_at: 2024-03-05T03:56:47
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -14,6 +14,8 @@ tags:
   - "Rules"
 ---
 # Coup - Core Game
+![coup](/assets/images/coup.webp){: .align-left}
+
 ##### Description:
 In the not too distant future, the government is run for profit by a new "royal class" of multinational CEOs.
 
@@ -27,7 +29,7 @@ To be successful, you must destroy the influence of your rivals and drive them i
 
 In these turbulent times there is only room for one to survive.
 
-![components](/assets/images/coup1_components.webp){: .align-right}
+![components](/assets/images/coup1_components.webp){: .align-left}
 
 ## Components
 - 3 Duke Cards
@@ -47,7 +49,7 @@ Give each player 2 coins. Each player's money must be kept visible. Place the re
 Give one summary card to each player. This is for reference only. Players should familiarize themselves with all the actions and characters before starting the game.
 The person who won the last game starts.
 
-![components2](/assets/images/coup2_components2.webp)
+![components2](/assets/images/coup2_components2.webp){: .align-center}
 
 
 ## Object of the Game
@@ -95,19 +97,25 @@ If a player starts their turn with 10 (or more) coins they must launch a Coup th
 #### B. Character Actions
 (If challenged a player must show they influence the relevant character)
 
-![duke](/assets/images/coup3_duke.webp){: .align-right}
+![duke](/assets/images/coup3_duke.webp){: .align-left}
 ##### Duke - Tax
 Take 3 coins from the Treasury.
 
-![assassin](/assets/images/coup4_assassin.webp){: .align-right}
+<br />
+
+![assassin](/assets/images/coup4_assassin.webp){: .align-left}
 ##### Assassin - Assassinate
 Pay 3 coins to the Treasury and launch an assassination against another player. If successful that player immediately loses an influence. (Can be blocked by the Contessa)
 
-![captain](/assets/images/coup5_captain.webp){: .align-right}
+<br />
+
+![captain](/assets/images/coup5_captain.webp){: .align-left}
 ##### Captain - Steal
 Take 2 coins from another player. If they only have one coin, take only one. (Can be blocked by the Ambassador or the Captain)
 
-![ambassador](/assets/images/coup6_ambassador){: .align-right}
+<br />
+
+![ambassador](/assets/images/coup6_ambassador.webp){: .align-left}
 ##### Ambassador - Exchange
 Exchange cards with the Court. First take 2 random cards from the Court deck. Choose which, if any, to exchange with your face-down cards. Then return two cards to the Court deck.
 
@@ -118,19 +126,19 @@ Counteractions operate like character actions. Players may claim to influence an
 
 They do not need to show any cards unless challenged. Counteractions may be challenged, but if not challenged they automatically succeed. If an action is successfully counteracted, the action fails but any coins paid as the cost of the action remain spent.
 
-![duke](/assets/images/coup3_duke.webp){: .align-left}
+![duke](/assets/images/coup3_duke.webp){: .align-right}
 ##### Duke - Blocks Foreign Aid
 Any player claiming the Duke may counteract and block a player attempting to collect foreign aid.
 
 The player trying to gain foreign aid receives no coins that turn.
 
-![contessa](/assets/images/coup7_contessa.webp){: .align-left}
+![contessa](/assets/images/coup7_contessa.webp){: .align-right}
 ##### Contessa - Blocks Assassination
 The player who is being assassinated may claim the Contessa and counteract to block the assassination.
 
 The assassination fails but the fee paid by the player for the assassin remains spent.
 
-![captbassador](/assets/images/coup8_captain_ambassador.webp){: .align-left}
+![captbassador](/assets/images/coup8_captain_ambassador.webp){: .align-right}
 ##### Ambassador/Captain - Blocks Stealing
 The player who is being stolen from may claim either the Ambassador or the Captain and counteract to block the steal.
 
@@ -177,7 +185,7 @@ Divide the cards into a 3 sets of 5 (each set has one of each character). Each p
 Shuffle the third set and deal one card to each player and then put the remaining three cards face down as the court deck.
 
 # Coup Reformation - Expansion
-![reformation](/assets/images/coup-reformation-cover.webpp){: .align-center}
+![reformation](/assets/images/coup-reformation-cover.webp){: .align-center}
 #### Description
 Driven by their successes, the resistance has gained popular support and entire regions are in open rebellion. In a desperate attempt to stay in control, some government leaders are publically supporting the reforms demanded by the resistance.
 
