@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-05T05:08:36
+last_modified_at: 2024-03-08T02:50:45
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -16,22 +16,21 @@ tags:
 # Coup - Core Game
 ![coup](/assets/images/coup.webp){: .align-left}
 
-##### Description:
+##### Description
 In the not too distant future, the government is run for profit by a new "royal class" of multinational CEOs.
 
 Their greed and absolute control of the economy has reduced all but a privileged few to lives of poverty and desperation.
 
-Out of the oppressed masses rose The Resistance, an underground organization focused on overthrowing these powerful rulers. The valiant efforts of
-
-The Resistance have created discord, intrigue, and weakness in the political courts of the noveau royal, bringing the government to brink of collapse. But for you, a powerful government official, this is your opportunity to manipulate, bribe and bluff your way into absolute power.
+Out of the oppressed masses rose The Resistance, an underground organization focused on overthrowing these powerful rulers. The valiant efforts of The Resistance have created discord, intrigue, and weakness in the political courts of the noveau royal, bringing the government to brink of collapse. But for you, a powerful government official, this is your opportunity to manipulate, bribe and bluff your way into absolute power.
 
 To be successful, you must destroy the influence of your rivals and drive them into exile.
 
 In these turbulent times there is only room for one to survive.
 
-![components](/assets/images/coup1_components.webp){: .align-right}
 
 ## Components
+![components](/assets/images/coup1_components.webp){: .align-right}
+
 - 3 Duke Cards
 - 3 Assassin Cards
 - 3 Captain Cards
@@ -88,7 +87,7 @@ If a player starts their turn with 10 (or more) coins they must launch a Coup th
 
 
 #### A. General Actions
-(Always available)
+*(Always available)*
 
 - Income: Take 1 coin from the Treasury.
 - Foreign Aid: Take 2 coins from the Treasury. (Can be blocked by the Duke)
@@ -97,8 +96,9 @@ If a player starts their turn with 10 (or more) coins they must launch a Coup th
 #### B. Character Actions
 *(If challenged a player must show they influence the relevant character)*
 
-![duke](/assets/images/coup3_duke.webp){: .align-left}
+
 ##### Duke - Tax
+![duke](/assets/images/coup3_duke.webp){: .align-left}
 Take 3 coins from the Treasury.
 
 <br />
@@ -106,20 +106,23 @@ Take 3 coins from the Treasury.
 <br />
 <br />
 
-![assassin](/assets/images/coup4_assassin.webp){: .align-left}
+
 ##### Assassin - Assassinate
+![assassin](/assets/images/coup4_assassin.webp){: .align-left}
 Pay 3 coins to the Treasury and launch an assassination against another player. If successful that player immediately loses an influence. (Can be blocked by the Contessa)
 
 <br />
 
-![captain](/assets/images/coup5_captain.webp){: .align-left}
+
 ##### Captain - Steal
+![captain](/assets/images/coup5_captain.webp){: .align-left}
 Take 2 coins from another player. If they only have one coin, take only one. *(Can be blocked by the Ambassador or the Captain)*
 
 <br />
 
-![ambassador](/assets/images/coup6_ambassador.webp){: .align-left}
+
 ##### Ambassador - Exchange
+![ambassador](/assets/images/coup6_ambassador.webp){: .align-left}
 Exchange cards with the Court. First take 2 random cards from the Court deck. Choose which, if any, to exchange with your face-down cards. Then return two cards to the Court deck.
 
 
@@ -129,24 +132,27 @@ Counteractions operate like character actions. Players may claim to influence an
 
 They do not need to show any cards unless challenged. Counteractions may be challenged, but if not challenged they automatically succeed. If an action is successfully counteracted, the action fails but any coins paid as the cost of the action remain spent.
 
-![duke](/assets/images/coup3_duke.webp){: .align-right}
+
 ##### Duke - Blocks Foreign Aid
+![duke](/assets/images/coup3_duke.webp){: .align-right}
 Any player claiming the Duke may counteract and block a player attempting to collect foreign aid.
 
 The player trying to gain foreign aid receives no coins that turn.
 
 <br />
 
-![contessa](/assets/images/coup7_contessa.webp){: .align-right}
+
 ##### Contessa - Blocks Assassination
+![contessa](/assets/images/coup7_contessa.webp){: .align-right}
 The player who is being assassinated may claim the Contessa and counteract to block the assassination.
 
 The assassination fails but the fee paid by the player for the assassin remains spent.
 
 <br />
 
-![captbassador](/assets/images/coup8_captain_ambassador.webp){: .align-right}
+
 ##### Ambassador/Captain - Blocks Stealing
+![captbassador](/assets/images/coup8_captain_ambassador.webp){: .align-right}
 The player who is being stolen from may claim either the Ambassador or the Captain and counteract to block the steal.
 
 The player trying to steal receives no coins that turn.
