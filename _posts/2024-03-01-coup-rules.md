@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-08T02:50:45
+last_modified_at: 2024-03-08T23:55:43
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -13,6 +13,9 @@ tags:
   - "Games"
   - "Rules"
 ---
+# Disclaimer
+The following was not written by me, save a few minor tweaks. I simply wanted a handier way to access the rules after losing the physical set that came with my copy of Coup. Perhaps someone else will find it useful as well? ¯\\\_(ツ)\_/¯
+
 # Coup - Core Game
 ![coup](/assets/images/coup.webp){: .align-left}
 
@@ -97,8 +100,8 @@ If a player starts their turn with 10 (or more) coins they must launch a Coup th
 *(If challenged a player must show they influence the relevant character)*
 
 
-##### Duke - Tax
 ![duke](/assets/images/coup3_duke.webp){: .align-left}
+##### Duke - Tax
 Take 3 coins from the Treasury.
 
 <br />
@@ -107,22 +110,23 @@ Take 3 coins from the Treasury.
 <br />
 
 
-##### Assassin - Assassinate
+
 ![assassin](/assets/images/coup4_assassin.webp){: .align-left}
+##### Assassin - Assassinate
 Pay 3 coins to the Treasury and launch an assassination against another player. If successful that player immediately loses an influence. (Can be blocked by the Contessa)
 
 <br />
 
 
-##### Captain - Steal
 ![captain](/assets/images/coup5_captain.webp){: .align-left}
+##### Captain - Steal
 Take 2 coins from another player. If they only have one coin, take only one. *(Can be blocked by the Ambassador or the Captain)*
 
 <br />
 
 
-##### Ambassador - Exchange
 ![ambassador](/assets/images/coup6_ambassador.webp){: .align-left}
+##### Ambassador - Exchange
 Exchange cards with the Court. First take 2 random cards from the Court deck. Choose which, if any, to exchange with your face-down cards. Then return two cards to the Court deck.
 
 
@@ -133,8 +137,8 @@ Counteractions operate like character actions. Players may claim to influence an
 They do not need to show any cards unless challenged. Counteractions may be challenged, but if not challenged they automatically succeed. If an action is successfully counteracted, the action fails but any coins paid as the cost of the action remain spent.
 
 
-##### Duke - Blocks Foreign Aid
 ![duke](/assets/images/coup3_duke.webp){: .align-right}
+##### Duke - Blocks Foreign Aid
 Any player claiming the Duke may counteract and block a player attempting to collect foreign aid.
 
 The player trying to gain foreign aid receives no coins that turn.
@@ -142,8 +146,8 @@ The player trying to gain foreign aid receives no coins that turn.
 <br />
 
 
-##### Contessa - Blocks Assassination
 ![contessa](/assets/images/coup7_contessa.webp){: .align-right}
+##### Contessa - Blocks Assassination
 The player who is being assassinated may claim the Contessa and counteract to block the assassination.
 
 The assassination fails but the fee paid by the player for the assassin remains spent.
@@ -151,8 +155,8 @@ The assassination fails but the fee paid by the player for the assassin remains 
 <br />
 
 
-##### Ambassador/Captain - Blocks Stealing
 ![captbassador](/assets/images/coup8_captain_ambassador.webp){: .align-right}
+##### Ambassador/Captain - Blocks Stealing
 The player who is being stolen from may claim either the Ambassador or the Captain and counteract to block the steal.
 
 The player trying to steal receives no coins that turn.
@@ -236,6 +240,10 @@ Give each player an Allegiance card. The start player chooses an Allegiance (eit
 
 Going clockwise around the table, each player alternates Allegiance from the previous player, placing their Allegiance card in front of them.
 
+![loyalist](/assets/images/coup-reformation2a_loyalist.webp){: .align-left}
+![reformist](/assets/images/coup-reformation2b_reformist.webp){: .align-right}
+#### Allegiance Card faces
+
 
 ### Game Play Changes
 A player cannot Coup, Assassinate, Steal from nor block a Foreign Aid attempt by another player of the same Allegiance unless all players are of the same Allegiance.
@@ -247,12 +255,13 @@ Pay 1 coin to change your Allegiance or pay 2 coins to change the Allegiance of 
 
 #### Embezzlement
 Unless you have the Duke, you may take all the coins on the Treasury Reserve card.
-Anyone can challenge that the player attempting to Embezzle has the Duke. If the challenged player does have the Duke, they must concede and lose the challenge (a player that does not have the Duke may concede and lose the challenge); return the coins taken to the Treasury Reserve card and lose one influence card.
+Anyone can challenge that the player attempting to Embezzle has the Duke. If the challenged player *does* have the Duke, they must concede and lose the challenge (a player that *does not* have the Duke **may** concede and lose the challenge); return the coins taken to the Treasury Reserve card and lose one influence card.
 
-If the challenged player does not have the Duke (and does not concede) they must show their influence card(s), the challenger loses; the revealed influence cards are shuffled back into the court deck and replaced randomly (this does not cause a loss or gain in the number of influence cards to the challenged player).
+If the challenged player *does not* have the Duke (and does not concede) they must show their influence card(s), the challenger loses; the revealed influence cards are shuffled back into the court deck and replaced randomly (this does not cause a loss or gain in the number of influence cards to the challenged player).
 
 
 
+![inquisitor](/assets/images/coup-reformation1_inquisitor.webp){: .align-left}
 ### Inquisitor Variant
 Remove all the Ambassador character cards from the Court deck and replace with Inquisitor cards. The Inquisitor has the following character actions, only one of which may be taken in a turn:
 
@@ -260,16 +269,16 @@ Remove all the Ambassador character cards from the Court deck and replace with I
 Exchange one card with the Court deck. First take one random card from the Court deck. Choose which, if any to exchange with your face down cards. Then return one card to the Court deck.
 
 #### Examine
-Look at an opponent's card and force an Exchange.
+Look at an opponent's card and optionally force an Exchange.
 
 First the selected opponent chooses one of their face down cards to show to the Inquisitor. The Inquisitor looks at that card and may either hand that card back, or the Inquisitor may force the opponent to draw a new card randomly from the Court deck before returning the given card to the Court deck.
 
-As a counteraction the Inquisitor may Block Stealing.
-
 A player cannot Examine another player of the same Allegiance unless all players are of the same Allegiance.
+
+As a counteraction the Inquisitor may Block Stealing.
 
 ### More Than Six Player Variant
 Coup & Reformation can be played with 7 or 8 players by including 4 each of the selected character cards in the Court deck (20 cards total). Coup can be played with 9 or 10 players by including 5 each of the selected character cards in the Court deck (25 cards total).
 
-__Note:__
+**Note:**
 Playing with more than 6 players can significantly increase playing time, and may lead to long waits for those that are eliminated early. It is recommended for experienced players and exceptional situations
