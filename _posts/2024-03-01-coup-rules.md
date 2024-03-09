@@ -2,11 +2,11 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-09T01:48:58
+last_modified_at: 2024-03-09T01:56:51
 header:
   overlay_image: /assets/images/coup.webp
 categories:
-  - "Game Rules"
+  - "Game_Rules"
 tags:
   - "Coup"
   - "Reformation"
