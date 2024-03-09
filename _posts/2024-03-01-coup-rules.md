@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-08T23:55:43
+last_modified_at: 2024-03-09T01:48:58
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -242,15 +242,16 @@ Going clockwise around the table, each player alternates Allegiance from the pre
 
 ![loyalist](/assets/images/coup-reformation2a_loyalist.webp){: .align-left}
 ![reformist](/assets/images/coup-reformation2b_reformist.webp){: .align-right}
-#### Allegiance Card faces
+###### Allegiance Card faces
 
+<br />
 <br />
 <br />
 <br />
 <br />
 
 ### Game Play Changes
-A player cannot Coup, Assassinate, Steal from nor block a Foreign Aid attempt by another player of the same Allegiance unless all players are of the same Allegiance.
+A player cannot Coup, Assassinate, Steal from, nor block a Foreign Aid attempt by another player of the same Allegiance unless all players are of the same Allegiance.
 
 
 ### Additional Actions
