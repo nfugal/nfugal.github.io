@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-09T18:08:15
+last_modified_at: 2024-03-09T18:10:46
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -249,7 +249,12 @@ Going clockwise around the table, each player alternates Allegiance from the pre
 ##### Allegiance Card faces
 
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 _____
 
