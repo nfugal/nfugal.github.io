@@ -244,6 +244,10 @@ Going clockwise around the table, each player alternates Allegiance from the pre
 ![reformist](/assets/images/coup-reformation2b_reformist.webp){: .align-right}
 #### Allegiance Card faces
 
+<br />
+<br />
+<br />
+<br />
 
 ### Game Play Changes
 A player cannot Coup, Assassinate, Steal from nor block a Foreign Aid attempt by another player of the same Allegiance unless all players are of the same Allegiance.
