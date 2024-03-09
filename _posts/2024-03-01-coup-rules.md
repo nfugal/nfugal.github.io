@@ -2,7 +2,7 @@
 title: "Coup Game Rules"
 excerpt: "In the not too distant future, the government is run for profit by a new 'royal class' of multinational CEOs..."
 date: 2024-03-01
-last_modified_at: 2024-03-09T01:56:51
+last_modified_at: 2024-03-09T02:10:22
 header:
   overlay_image: /assets/images/coup.webp
 categories:
@@ -198,6 +198,7 @@ No coins can be given or lent to other players.
 
 There is no second place.
 
+_____
 
 
 ### Two Player Coup & Two Player Variant
@@ -209,10 +210,13 @@ Divide the cards into a 3 sets of 5 (each set has one of each character). Each p
 
 Shuffle the third set and deal one card to each player and then put the remaining three cards face down as the court deck.
 
+_____
+
+
 # Coup Reformation - Expansion
 ![reformation](/assets/images/coup-reformation-cover.webp){: .align-center}
 #### Description
-Driven by their successes, the resistance has gained popular support and entire regions are in open rebellion. In a desperate attempt to stay in control, some government leaders are publically supporting the reforms demanded by the resistance.
+Driven by their successes, the resistance has gained popular support and entire regions are in open rebellion. In a desperate attempt to stay in control, some government leaders are publicly supporting the reforms demanded by the resistance.
 
 But allegiances are constantly shifting, and can be bought for the right price.
 
@@ -242,38 +246,36 @@ Going clockwise around the table, each player alternates Allegiance from the pre
 
 ![loyalist](/assets/images/coup-reformation2a_loyalist.webp){: .align-left}
 ![reformist](/assets/images/coup-reformation2b_reformist.webp){: .align-right}
-###### Allegiance Card faces
+Allegiance Card faces
 
-<br />
-<br />
-<br />
-<br />
-<br />
+_____
+
 
 ### Game Play Changes
 A player cannot Coup, Assassinate, Steal from, nor block a Foreign Aid attempt by another player of the same Allegiance unless all players are of the same Allegiance.
 
 
 ### Additional Actions
-#### Conversion
+##### Conversion
 Pay 1 coin to change your Allegiance or pay 2 coins to change the Allegiance of one other player. Coins paid for this action are placed on the Treasury Reserve card. The relevant Allegiance card is then turned to the other side.
 
-#### Embezzlement
+##### Embezzlement
 Unless you have the Duke, you may take all the coins on the Treasury Reserve card.
 Anyone can challenge that the player attempting to Embezzle has the Duke. If the challenged player *does* have the Duke, they must concede and lose the challenge (a player that *does not* have the Duke **may** concede and lose the challenge); return the coins taken to the Treasury Reserve card and lose one influence card.
 
 If the challenged player *does not* have the Duke (and does not concede) they must show their influence card(s), the challenger loses; the revealed influence cards are shuffled back into the court deck and replaced randomly (this does not cause a loss or gain in the number of influence cards to the challenged player).
 
 
+_____
 
 ![inquisitor](/assets/images/coup-reformation1_inquisitor.webp){: .align-left}
 ### Inquisitor Variant
 Remove all the Ambassador character cards from the Court deck and replace with Inquisitor cards. The Inquisitor has the following character actions, only one of which may be taken in a turn:
 
-#### Exchange
+##### Exchange
 Exchange one card with the Court deck. First take one random card from the Court deck. Choose which, if any to exchange with your face down cards. Then return one card to the Court deck.
 
-#### Examine
+##### Examine
 Look at an opponent's card and optionally force an Exchange.
 
 First the selected opponent chooses one of their face down cards to show to the Inquisitor. The Inquisitor looks at that card and may either hand that card back, or the Inquisitor may force the opponent to draw a new card randomly from the Court deck before returning the given card to the Court deck.
@@ -281,6 +283,8 @@ First the selected opponent chooses one of their face down cards to show to the 
 A player cannot Examine another player of the same Allegiance unless all players are of the same Allegiance.
 
 As a counteraction the Inquisitor may Block Stealing.
+
+_____
 
 ### More Than Six Player Variant
 Coup & Reformation can be played with 7 or 8 players by including 4 each of the selected character cards in the Court deck (20 cards total). Coup can be played with 9 or 10 players by including 5 each of the selected character cards in the Court deck (25 cards total).
