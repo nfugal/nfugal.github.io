@@ -1,6 +1,6 @@
 # The repo formerly known as stunning-octo-pancake
 
-### The code behind NateFugal.tech/nfugal.github.io
+### The code behind NateFugal.tech / nfugal.github.io
 
 This is the repo for deploying my personal website/blog/landing-page, hosted on GitHub Pages. It is the 4th-ish iteration of said website.
 
