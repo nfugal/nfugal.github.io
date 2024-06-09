@@ -2,7 +2,7 @@
 title: "Post Skeleton"
 excerpt: "Just a skeleton file for new posts"
 date: 2019-01-02
-last_modified_at: 2024-03-09T18:40:25
+last_modified_at: 2024-06-09T17:41:42
 header:
   overlay_image: /assets/images/skull-and-crossbones-2077840.webp
 categories:
@@ -24,6 +24,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta quam eget n
 
 ___
 
-_Remember, if something hasn't gone wrong yet, you're not trying hard enough._
+*Remember, if something hasn't gone wrong yet, you're not trying hard enough.*
 
 -Nate
