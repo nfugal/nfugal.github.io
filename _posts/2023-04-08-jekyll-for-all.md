@@ -2,7 +2,7 @@
 title: "Jekyll for Less-Technical Folk"
 excerpt: "In this week's episode I help someone switch from Adobe Portfolio to GitHub Pages and Jekyll"
 date: 2023-04-08
-last_modified_at: 2023-04-09T00:48:50
+last_modified_at: 2026-01-11T18:55:20
 header:
   overlay_image: /assets/images/clement-h-95YRwf6CNw8-unsplash.webp
   image_description: "Laptop with code editor on the screen"

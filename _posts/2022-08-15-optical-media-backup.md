@@ -2,7 +2,7 @@
 title: "Backing Up Optical Media for Increased Utility & Ease of Enjoyment"
 excerpt: "Discs are soOoo last decade."
 date: 2022-08-15
-last_modified_at: 2022-08-15T16:20:02-06:00
+last_modified_at: 2026-01-11T18:55:20
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -229,7 +229,7 @@ I lump the prep, ripping, and encoding into the _interesting-at-first-but-quickl
 
 ![Kodi Logo](/assets/images/kodi-logo.webp){: .align-center}
 
-Kodi has been around since the days when the original xBox was Microsoft's current generation console. In that time is has evolved much but what I think of as Kodi's core strength has _not_ changed―play any of your media flawlessly and look good while doing it. Kodi is _very_ customizable but the many ways you can customize it are out of the scope of this guide[^5].
+Kodi has been around since the days when the original xBox was Microsoft's current generation console. In that time it has evolved much but what I think of as Kodi's core strength has _not_ changed―play any of your media flawlessly and look good while doing it. Kodi is _very_ customizable but the many ways you can customize it are out of the scope of this guide[^5].
 
 ###### Strengths & Weaknesses of Kodi
 
