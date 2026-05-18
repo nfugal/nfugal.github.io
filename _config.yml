@@ -102,6 +102,12 @@ author:
 
 footer:
   links:
+    - label: "Privacy Policy"
+      icon: "fas fa-fw fa-user-shield"
+      url: "/privacy/"
+    - label: "Accessibility"
+      icon: "fas fa-fw fa-universal-access"
+      url: "/accessibility/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/nfugal"
