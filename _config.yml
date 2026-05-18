@@ -112,8 +112,8 @@ footer:
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/nfugal"
     - label: "Bluesky"
-      # icon: "fas fa-fw fa-bluesky"
-      icon: "fas fa-fw fa-user-circle"
+      icon: "fas fa-fw fa-bluesky"
+      # icon: "fas fa-fw fa-user-circle"
       url: "https://bsky.app/profile/nfugal.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -160,4 +160,4 @@ comments:
   provider: "staticman_v2"
   staticman:
     branch: "main"
-    endpoint: https://staticman.lab.natefugal.tech/v3/entry/github/
+    endpoint: https://staticman.nwfugal.cc/v3/entry/github/
