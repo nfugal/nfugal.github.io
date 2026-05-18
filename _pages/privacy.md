@@ -24,7 +24,7 @@ Depending on your location, you have the right to:
 * Request that we delete your data/comments.
 * Object to processing.
 
-To exercise these rights, please contact me at info [at] natefugal [dot] tech.
+To exercise these rights, please contact me at privacy [at] natefugal [dot] tech.
 
 ### 4. Third-Party Services
 Our site relies on the following providers:

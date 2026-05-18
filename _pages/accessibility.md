@@ -22,5 +22,5 @@ Despite our best efforts, some content may not yet be fully adapted. This may in
 
 ### 4. Feedback
 We welcome your feedback on the accessibility of this site. If you encounter any barriers, please let us know:
-* **Email:** info [at] natefugal [dot] tech
+* **Email:** feedback [at] natefugal [dot] tech
 * **GitHub:** https://github.com/nfugal/nfugal.github.io/issues
