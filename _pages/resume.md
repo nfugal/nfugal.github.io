@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-[📥 Download PDF Version](/assets/pdf/resume.pdf){: .btn .btn--primary .btn--large}
+[📥 Download PDF Version]({{ '/assets/pdf/resume.pdf' | relative_url }}){: .btn .btn--primary .btn--large}
 
 ---
 
