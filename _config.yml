@@ -25,7 +25,7 @@ description: "Ramblings, Musings, & Projects by Nate"
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
-twitter_username: nfugal
+#twitter_username: nfugal
 github_username: nfugal
 minimal_mistakes_skin: dark
 search: true
