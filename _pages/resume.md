@@ -43,7 +43,7 @@ April 2010 - August 2017 (7.33 years)
 **Nitty Gritty:** Successfully installing, configuring, & maintaining: servers, new computers, RAID, LVM, remote desktop services, MySQL databases, & kernels using Linux (several flavors) & Windows. Networking all hardware to cooperate easily & securely.
 
 ### FSR1 - Redbox Automated Retail, LLC
-April 2007 - May 2016 (9 years)
+April 2007 - May 2016 (9.08 years)
 
 **Big Picture:** As a movie delivery hero I tracked & distributed entertainment awesomeness, along with plenty of sub-par videos, each week. Rescuing customers from the perils of UI upgrades was routine.
 
@@ -51,12 +51,12 @@ April 2007 - May 2016 (9 years)
 
 ## Weaponry
 
-**Western Governors University** — Information Technology - Security
-January 2014 - 2017
+**Western Governors University**
+- Information Technology - Security, January 2014 - 2017
 
-**Utah State University** — Mechanical Engineering
-August 2006 - May 2007
-Switzerland Design Summit, May - June 2013
+**Utah State University**  
+- Mechanical Engineering, August 2006 - May 2007
+- Switzerland Design Summit, May - June 2013
 
 ## Achievements Unlocked
 
